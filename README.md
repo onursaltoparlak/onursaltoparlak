@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onursaltoparlak
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning JavaScript, PHP Laravel and C++
+- 🌱 I’m currently learning JavaScript, Laravel and C++
 - 💞️ I’m looking to collaborate on making projects in C# and Python
 - 📫 How to reach me on LinkedIn as Onursal Toparlak
 
