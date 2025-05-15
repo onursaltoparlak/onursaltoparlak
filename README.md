@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600" height="300" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" height="300" />
 
 - 👋 Hi, I’m @onursaltoparlak
 - 👀 I’m interested in Back-End Development and Designing
