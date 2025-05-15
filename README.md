@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onursaltoparlak
 - 👀 I’m interested in Back-End Development and Designing
 - 🌱 I’m currently learning C#, MySQL, MongoDb, PostgreSQL and .NET Core
-- 💞️ I’m looking to collaborate on making projects in Python and Laravel
+- 💞️ I’m looking to collaborate on making projects in C# and Python 
 - 📫 How to reach me on LinkedIn as Onursal Toparlak
 
 <!---
