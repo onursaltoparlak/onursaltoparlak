@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+
 - 👋 Hi, I’m @onursaltoparlak
 - 👀 I’m interested in Back-End Development and Designing
 - 🌱 I’m currently learning C#, MySQL, MongoDb, PostgreSQL and .NET Core
