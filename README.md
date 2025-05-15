@@ -1,4 +1,4 @@
-![Matrix Rain](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![photo](https://github.com/user-attachments/assets/bdc29f08-2f95-4222-921b-0e582fc618dd)
 
 - 👋 Hi, I’m @onursaltoparlak
 - 👀 I’m interested in Back-End Development and Designing
