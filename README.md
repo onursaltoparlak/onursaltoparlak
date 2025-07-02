@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Onursal Toparlak</h1>
-<h3 align="center">Computer Engineer | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Developer | Full-Stack Developer | Tech Enthusiast</h3>
 
 ---
 
-- 🎓 I'm a Computer Engineer with a passion for building scalable web apps and smart tools.
+- 🎓 I'm a Software Developer turning ideas into full-stack solutions using modern web technologies and clean architectural patterns.
 - 🚀 I enjoy creating solutions with .NET, Python, and modern front-end technologies.
 - 📖 Writing technical articles on Medium to share what I learn.
 - 🌱 Currently exploring AI Agents, Real-time Dashboards, and clean software architecture.
