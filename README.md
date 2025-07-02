@@ -3,10 +3,7 @@
 
 ---
 
-- 🎓 I'm a Software Developer turning ideas into full-stack solutions using modern web technologies and clean architectural patterns.
-- 🚀 I enjoy creating solutions with .NET, Python, and modern front-end technologies.
-- 📖 Writing technical articles on Medium to share what I learn.
-- 🌱 Currently exploring AI Agents, Real-time Dashboards, and clean software architecture.
+![68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://github.com/user-attachments/assets/e045405a-53a9-4f36-af41-61e229adfac7)
 
 ---
 
