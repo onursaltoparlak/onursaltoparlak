@@ -10,13 +10,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🎬 **MovieFlix** – Mood-based movie recommender built with Python & Streamlit  
-- 🧾 **MyFinancialCRM** – C# + PostgreSQL based CRM for managing finances  
-- 🧠 **AI Task Assistant** – Intelligent personal dashboard with widgets and scheduling
-
----
-
 ### 📫 How to reach me:
 📧 onursal.toparlak.5@gmail.com
 
